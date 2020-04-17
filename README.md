@@ -29,13 +29,13 @@ Students who want to pursue higher studies from abroad especially the United Sta
 The dataset (Admission_Predict_Ver1.1.csv) contains several parameters which are considered important during the application for Graduate admission.
 The parameters included are :
 
-GRE Scores ( out of 340 )
-TOEFL Scores ( out of 120 )
-University Rating ( out of 5 )
-Statement of Purpose and Letter of Recommendation Strength ( out of 5 )
-Undergraduate GPA ( out of 10 )
-Research Experience ( either 0 or 1 )
-Chance of Admit ( ranging from 0 to 1 )
+- GRE Scores ( out of 340 )
+- TOEFL Scores ( out of 120 )
+- University Rating ( out of 5 )
+- Statement of Purpose and Letter of Recommendation Strength ( out of 5 )
+- Undergraduate GPA ( out of 10 )
+- Research Experience ( either 0 or 1 )
+- Chance of Admit ( ranging from 0 to 1 )
 
 
 ## Results<a name="results"></a>
