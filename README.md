@@ -19,10 +19,10 @@ pip install -r requirements.txt
 
 Students who want to pursue higher studies from abroad especially the United States of America often worried about their chance of admission to graduate school. The aim of this blog post is to help the aspirant students to focus on improving their profile in order to get admission in the top rating universities. This analysis should help students who are currently preparing or will be preparing to get a better understanding of the important criteria to get an admission.
 
-Question 1: Does CGPA, GRE and TOEFL scores influence the chance of admission?
-Question 2: Does previous research experiences have any influence on the chance of admission?
-Question 3: If students do not have any research experience, what other criteria are important to get admission with higher probability?
-Question 4: What is the most important feature in graduate admission?
+- Does CGPA, GRE and TOEFL scores influence the chance of admission?
+- Does previous research experiences have any influence on the chance of admission?
+- If students do not have any research experience, what other criteria are important to get admission with higher probability?
+- What is the most important feature in graduate admission?
 
 ## File Descriptions <a name="files"></a>
 
