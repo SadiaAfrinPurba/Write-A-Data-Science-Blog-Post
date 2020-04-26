@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-After clone or download this repository run these following command
+After clone or download this repository run these following commands
 ```
 cd Write-A-Data-Science-Blog-Post
 pip install -r requirements.txt
